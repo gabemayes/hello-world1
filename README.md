@@ -1,3 +1,3 @@
 # hello-world1
 Intro to github
-BLah
+Javascript or something
